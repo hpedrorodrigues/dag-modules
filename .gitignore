@@ -1,0 +1,10 @@
+## Folder
+
+.idea
+.gradle
+build
+out
+
+## File
+
+*.iml
